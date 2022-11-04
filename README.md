@@ -10,7 +10,7 @@ Add it in your root settings.gradle at the end of repositories:
 
 Step 2. Add the dependency
 
-       implementation 'com.github.gold-devoloper:YouTube:Tag'
+         implementation 'com.github.gold-devoloper:YouTube-Player:tag'
 
 Xml Code
        
